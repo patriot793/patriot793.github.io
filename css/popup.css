@@ -61,7 +61,7 @@
 .prod__phone {
 	position: absolute;
 	top: 50;
-
+z-index: 0;
 	display: flex;
 	width: 300px;
 	height: 300px;
@@ -77,6 +77,7 @@
 		padding: 0 0 30px 0;
 		bottom: 0;
 		left: 700px;
+		z-index: 0;
 		transform: scale(2);
 		background: url(/img/Play\ Icon.png) 10px 90px no-repeat;
 	}
