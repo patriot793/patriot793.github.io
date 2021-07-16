@@ -61,7 +61,7 @@
 .prod__phone {
 	position: absolute;
 	top: 50;
-z-index: 2;
+
 	display: flex;
 	width: 300px;
 	height: 300px;
