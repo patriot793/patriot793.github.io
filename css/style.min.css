@@ -262,8 +262,9 @@ h1 {
 @media (max-width: 769px) {
 	.about__find {
 		width: 100%;
-		margin: 148px auto;
+		margin: 118px auto;
 		font-size: 24px;
+		transform: scale(2);
 	}
 }
 .about__find a {
@@ -903,6 +904,7 @@ h1 {
 }
 @media (max-width: 769px) {
 	.prod__button {
+		width: 174px;
 		transform: scale(2);
 		margin: 20px auto;
 		-webkit-box-align: center;
