@@ -221,13 +221,13 @@ body {
 @media (max-width: 769px) {
 	.about__label {
 		width: 100%;
-		margin: -75px 0 0 785px;
+		margin: -55px 0 0 785px;
 	}
 }
 @media (max-width: 769px) {
 	.about__label1 {
 		width: 100%;
-		margin: -45px 0 0 770px;
+		margin: -25px 0 0 770px;
 	}
 }
 h1 {
@@ -906,7 +906,7 @@ h1 {
 	.prod__button {
 		width: 174px;
 		transform: scale(2);
-		margin: 30px auto;
+		margin: 40px auto 0;
 		-webkit-box-align: center;
 		-ms-flex-align: center;
 		align-items: center;
