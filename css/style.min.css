@@ -168,6 +168,7 @@ body {
 		width: 80%;
 		font-size: 40px;
 		margin: 20px auto;
+		line-height: 1.4;
 		text-align: center;
 	}
 }
@@ -233,7 +234,7 @@ h1 {
 }
 @media (max-width: 769px) {
 	h1 {
-		font-size: 80px;
+		font-size: 100px;
 		text-align: center;
 	}
 }
@@ -357,7 +358,7 @@ h1 {
 	.what {
 		margin: 1300px auto;
 		background: url(/img/Rectangle\ 1250.png) 1016px 112px no-repeat,
-			url(/img/Rectangle\ 1250\ —\ копия.png) 1050px 112px no-repeat, #f8f8f8 0 0 / 0 200px no-repeat;
+			url(/img/Rectangle\ 1250\ —\ копия.png) 1050px 112px no-repeat;
 	}
 }
 @media screen and (prefers-reduced-motion: reduce) {
@@ -454,7 +455,7 @@ h1 {
 }
 @media (max-width: 769px) {
 	.what__lable0 {
-		font-size: 50px;
+		font-size: 60px;
 		text-align: center;
 		margin: 20px auto;
 	}
@@ -477,7 +478,7 @@ h1 {
 @media (max-width: 769px) {
 	.what__text0 {
 		width: 60%;
-		font-size: 40px;
+		font-size: 50px;
 		margin: 0 auto;
 		text-align: center;
 	}
@@ -541,7 +542,7 @@ h1 {
 }
 @media (max-width: 769px) {
 	.what__lable1 {
-		font-size: 45px;
+		font-size: 60px;
 		text-align: center;
 		margin: 20px auto;
 	}
@@ -561,7 +562,7 @@ h1 {
 @media (max-width: 769px) {
 	.what__text1 {
 		width: 60%;
-		font-size: 35px;
+		font-size: 50px;
 		margin: 0 auto;
 		text-align: center;
 	}
@@ -600,7 +601,7 @@ h1 {
 }
 @media (max-width: 769px) {
 	.what__lable2 {
-		font-size: 45px;
+		font-size: 60px;
 		text-align: center;
 		margin: 20px auto;
 	}
@@ -620,7 +621,7 @@ h1 {
 @media (max-width: 769px) {
 	.what__text2 {
 		width: 60%;
-		font-size: 35px;
+		font-size: 50px;
 		margin: 0 auto;
 		text-align: center;
 	}
@@ -677,7 +678,7 @@ h1 {
 }
 @media (max-width: 769px) {
 	.what__lable3 {
-		font-size: 45px;
+		font-size: 60px;
 		text-align: center;
 		margin: 20px auto;
 	}
@@ -697,7 +698,7 @@ h1 {
 @media (max-width: 769px) {
 	.what__text3 {
 		width: 60%;
-		font-size: 35px;
+		font-size: 50px;
 		margin: 0 auto;
 		text-align: center;
 	}
@@ -736,7 +737,7 @@ h1 {
 }
 @media (max-width: 769px) {
 	.what__lable4 {
-		font-size: 45px;
+		font-size: 60px;
 		text-align: center;
 		margin: 20px auto;
 	}
@@ -756,7 +757,7 @@ h1 {
 @media (max-width: 769px) {
 	.what__text4 {
 		width: 60%;
-		font-size: 35px;
+		font-size: 50px;
 		margin: 0 auto;
 		text-align: center;
 	}
@@ -795,7 +796,7 @@ h1 {
 }
 @media (max-width: 769px) {
 	.what__lable5 {
-		font-size: 45px;
+		font-size: 60px;
 		text-align: center;
 		margin: 20px auto;
 	}
@@ -815,7 +816,7 @@ h1 {
 @media (max-width: 769px) {
 	.what__text5 {
 		width: 60%;
-		font-size: 35px;
+		font-size: 50px;
 		margin: 0 auto;
 		text-align: center;
 	}
