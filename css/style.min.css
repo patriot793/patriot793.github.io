@@ -148,7 +148,7 @@ body {
 @media (max-width: 769px) {
 	.about__text {
 		width: 80%;
-		font-size: 30px;
+		font-size: 50px;
 		margin: 20px auto;
 		text-align: center;
 	}
@@ -206,7 +206,7 @@ body {
 h1 {
 	color: #fff;
 	font-family: ProximaNova;
-	font-size: 55px;
+	font-size: 85px;
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: normal;
