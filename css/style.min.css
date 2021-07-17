@@ -906,7 +906,7 @@ h1 {
 	.prod__button {
 		width: 174px;
 		transform: scale(2);
-		margin: 20px auto;
+		margin: 30px auto;
 		-webkit-box-align: center;
 		-ms-flex-align: center;
 		align-items: center;
