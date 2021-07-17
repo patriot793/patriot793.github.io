@@ -118,7 +118,7 @@ body {
 @media (max-width: 769px) {
 	.container {
 		max-width: none;
-		transform: scale(1.4);
+		
 	}
 }
 .about {
