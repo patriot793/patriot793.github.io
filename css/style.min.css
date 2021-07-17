@@ -904,7 +904,7 @@ h1 {
 @media (max-width: 769px) {
 	.prod__button {
 		transform: scale(2);
-		margin: 20px 0 0 744px;
+		margin: 20px auto;
 		-webkit-box-align: center;
 		-ms-flex-align: center;
 		align-items: center;
