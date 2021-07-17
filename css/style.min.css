@@ -182,7 +182,8 @@ body {
 }
 @media (max-width: 769px) {
 	.about__button {
-		margin: 20px auto;
+			transform: scale(2);
+		margin: 40px auto 0;
 	}
 }
 .about__btn {
@@ -195,7 +196,7 @@ body {
 }
 @media (max-width: 769px) {
 	.about__btn {
-		transform: scale(2);
+	
 	}
 }
 .about__right {
