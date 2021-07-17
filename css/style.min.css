@@ -183,7 +183,7 @@ body {
 @media (max-width: 769px) {
 	.about__button {
 			transform: scale(2);
-		margin: 40px auto 0;
+		margin: 70px auto 0;
 	}
 }
 .about__btn {
@@ -833,7 +833,7 @@ h1 {
 @media (max-width: 769px) {
 	.prod {
 		width: 100%;
-		margin: 4000px auto 0;
+		margin: 4150px auto 0;
 	}
 }
 .prod__columns {
@@ -901,6 +901,7 @@ h1 {
 }
 @media (max-width: 769px) {
 	.prod__button {
+		transform: scale(2);
 		margin: 20px 0 0 744px;
 		-webkit-box-align: center;
 		-ms-flex-align: center;
@@ -983,6 +984,7 @@ h1 {
 }
 .ready__right {
 	margin: 91px 226px 0 0;
+	transform: scale(2);
 }
 .footer {
 	width: 100%;
