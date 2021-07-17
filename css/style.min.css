@@ -78,6 +78,7 @@ h6 {
 }
 body {
 	font-family: "ProximaNova";
+	transform: scale(1.4);
 }
 .wrapper {
 	min-height: 100%;
