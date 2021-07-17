@@ -220,14 +220,12 @@ body {
 }
 @media (max-width: 769px) {
 	.about__label {
-		width: 100%;
-		margin: -35px 0 0 785px;
+		display: none;
 	}
 }
 @media (max-width: 769px) {
 	.about__label1 {
-		width: 100%;
-		margin: -15px 0 0 770px;
+		display: none;
 	}
 }
 h1 {
