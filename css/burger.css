@@ -96,12 +96,12 @@
 		background-color: #7050e5;
 	}
 	.header__body {
-		height: 80px;
+		height: 130px;
 	}
 	.header__logo {
 		-webkit-box-flex: 0;
 		-ms-flex: 0 0 50px;
-		flex: 0 0 50px;
+		flex: 0 0 80px;
 		margin: -3px 0 0 15px;
 	}
 	.header__burger {
