@@ -357,7 +357,7 @@ h1 {
 	.what {
 		margin: 1300px auto;
 		background: url(/img/Rectangle\ 1250.png) 1016px 112px no-repeat,
-			url(/img/Rectangle\ 1250\ —\ копия.png) 1050px 112px no-repeat, #f8f8f8 0 0 / 0 200px no-repeat;
+			url(/img/Rectangle\ 1250\ —\ копия.png) 1050px 112px no-repeat;
 	}
 }
 @media screen and (prefers-reduced-motion: reduce) {
