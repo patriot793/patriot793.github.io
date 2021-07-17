@@ -193,6 +193,11 @@ body {
 	background-color: #ff8b00;
 	padding: 18px 0 0 40px;
 }
+@media (max-width: 769px) {
+	.about__btn {
+		transform: scale(2);
+	}
+}
 .about__right {
 	margin: -25px 0 0 195px;
 }
