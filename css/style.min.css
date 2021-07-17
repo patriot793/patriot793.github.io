@@ -248,7 +248,7 @@ h1 {
 	text-align: center;
 	color: #fff;
 	text-transform: uppercase;
-	margin: 145px 0 0;
+	margin: 125px 0 0;
 }
 @media (max-width: 769px) {
 	.about__find {
@@ -454,7 +454,7 @@ h1 {
 }
 @media (max-width: 769px) {
 	.what__lable0 {
-		font-size: 45px;
+		font-size: 50px;
 		text-align: center;
 		margin: 20px auto;
 	}
@@ -477,7 +477,7 @@ h1 {
 @media (max-width: 769px) {
 	.what__text0 {
 		width: 60%;
-		font-size: 35px;
+		font-size: 40px;
 		margin: 0 auto;
 		text-align: center;
 	}
