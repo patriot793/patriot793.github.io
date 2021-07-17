@@ -129,7 +129,7 @@ body {
 }
 @media (max-width: 769px) {
 	.about {
-		margin: 0 auto;
+		margin: 30px auto 0;
 	}
 }
 .about__columns {
